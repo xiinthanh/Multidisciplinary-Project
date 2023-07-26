@@ -1,6 +1,6 @@
 # Multidisciplinary-Project
 
-## General Info
+## 1. General Info
 Group Name: Discrete Group
 
 App: A system to manage the door of a shop during COVID pandemic
@@ -12,6 +12,8 @@ App: A system to manage the door of a shop during COVID pandemic
 Technology used:
   - AI: whether there is a person at the door, if yes whether that person wears a mask or not.
   - IoT service (Adafruit).
-  - Simple hardware (Arduino) to get people's temperature.
+  - Simple hardware (Arduino) is used to get people's temperature.
   - Data Analytics (Calculate average temperature).
-  - Extra feature: open by password.
+  - Extra feature: control by password.
+
+## 2. 
