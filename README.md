@@ -12,8 +12,6 @@ App: A system to manage the door of a shop during COVID pandemic
 Technology used:
   - AI: whether there is a person at the door, if yes whether that person wears a mask or not.
   - IoT service (Adafruit).
-  - Simple hardware (Arduino) is used to get people's temperature.
-  - Data Analytics (Calculate average temperature).
-  - Extra feature: control by password.
-
-## 2. 
+  - Simple hardware (Arduino) is used to get body temperature.
+  - Data Analytics (Calculate average body temperature).
+  - Extra feature: open the door by password.
