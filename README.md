@@ -17,8 +17,9 @@ Technology used:
   - Extra feature: open the door by password.
 
 ## 2. System Deployment
-Step 1: Clone the source code
-Step 2: Install the following Python packages
+**Step 1:** Clone the source code
+
+**Step 2:** Install the following Python packages
   - For AI:
     + tensorflow
     + keras
@@ -29,16 +30,21 @@ Step 2: Install the following Python packages
     + adafruit-io
   - For Arduino:
     + pyserial
-Step 3: Set up the feeds and dashboard on Adafruit as below (can be modified depending on preference). Then change the AIO_USERNAME and AIO_KEY accordingly.
+
+**Step 3:** Set up the feeds and dashboard on Adafruit as below (can be modified depending on preference). Then change the AIO_USERNAME and AIO_KEY accordingly.
+
 Feeds
+
 <img width="790" alt="Feeds" src="https://github.com/xiinthanh/Multidisciplinary-Project/assets/118944173/2e06be94-92f4-4ca2-b785-45f986748e41">
+
 Dashboard
+
 <img width="790" alt="Dashboard" src="https://github.com/xiinthanh/Multidisciplinary-Project/assets/118944173/16781d74-c346-4d86-b355-e133803786e5">
 
-Step 4: Plug-in the Arduino and change the port ("COMx").
-<img width="500" alt="Arduino Port" src="https://github.com/xiinthanh/Multidisciplinary-Project/assets/118944173/e4f64fb0-4545-41c6-9007-3ce0002a67a1">
+**Step 4:** Plug-in the Arduino and change the port ("COMx").
+<img width="600" alt="Arduino Port" src="https://github.com/xiinthanh/Multidisciplinary-Project/assets/118944173/e4f64fb0-4545-41c6-9007-3ce0002a67a1">
 
-Step 5: run the "mqtt.py" file
+**Step 5:** run the "mqtt.py" file
 
-Extra: You can change the camera for AI detecting (the sample code using webcam).
-<img width="500" alt="image" src="https://github.com/xiinthanh/Multidisciplinary-Project/assets/118944173/fcec2503-3d7a-4e98-9e99-ce5a714c89ea">
+**Extra:** You can change the camera for AI detecting (the sample code using webcam).
+<img width="600" alt="image" src="https://github.com/xiinthanh/Multidisciplinary-Project/assets/118944173/fcec2503-3d7a-4e98-9e99-ce5a714c89ea">
