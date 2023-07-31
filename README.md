@@ -44,7 +44,12 @@ Dashboard
 **Step 4:** Plug-in the Arduino and change the port ("COMx").
 <img width="600" alt="Arduino Port" src="https://github.com/xiinthanh/Multidisciplinary-Project/assets/118944173/e4f64fb0-4545-41c6-9007-3ce0002a67a1">
 
-**Step 5:** run the "mqtt.py" file
+**Step 5:** Run the "mqtt.py" file
 
-**Extra:** You can change the camera for AI detecting (the sample code using webcam).
+**Extra 1:** You can change the camera for AI detecting (the sample code using webcam).
 <img width="600" alt="image" src="https://github.com/xiinthanh/Multidisciplinary-Project/assets/118944173/fcec2503-3d7a-4e98-9e99-ce5a714c89ea">
+
+**Extra 2:** Password can be changed here:
+
+<img width="300" alt="image" src="https://github.com/xiinthanh/Multidisciplinary-Project/assets/118944173/7126962a-de46-406a-b071-bcde4098d608">
+
